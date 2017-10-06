@@ -1,1 +1,1 @@
-## Udemy React
+## Hotels React
